@@ -62,7 +62,7 @@ IF des = 2 THEN
     CLS
     WRITE #1, "<p>"
     INPUT "write your paragraph"; para$
-    WRITE #1, par$, "</p>"
+    WRITE #1, para$, "</p>"
     GOTO 1
 END IF
 IF des = 3 THEN
