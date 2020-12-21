@@ -6,3 +6,4 @@ open find and replace feature in notepad replace "(double inverted commas) with 
 make sure that the application and the new.txt file are in the same folder.
 enjoy!!
 next update coming soon.
+the project is written in Qbasic64
