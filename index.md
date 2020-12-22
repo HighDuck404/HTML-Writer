@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## The  Html-Writer project
 
-You can use the [editor on GitHub](https://github.com/GamingKing10501/HTML-Writer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A while ago, I published [my own website](http://10501.000webhostapp.com/). since then, I had to wrte a number of webpages to add to my website, and it was 
+very annoying.
 
 ### Markdown
 
