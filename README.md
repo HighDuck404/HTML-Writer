@@ -1,8 +1,9 @@
 # HTML-Writer
-It is a application that is used to create simple webpages. It is used to write webpages quickly and avoid writing all the code yourself. 
-This is currenty on the beta stage and after creating a webpage you must open the file and replace some text and then click save as and type new name and .html.
-open find and replace feature in notepad replace "(double inverted commas) with space(make sure to have wrap text on),then replace ,(comma) with space(turn on wrap text if off)
-. After that, save the file as html.
+This application is built to make creating webpages easy for both newbies
+and professionals. It has basic commands like adding headings an paragraph,
+Images etc. prebuilt, but you can also write 
+custom line of code.
+It is originally created by Kaustubh Srivastava (Gaming King 10501)
 enjoy!!
 next update coming soon.
 the project is written in Qbasic64
